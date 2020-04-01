@@ -1,0 +1,8 @@
+{
+  "fields": {
+    "name": "Awa Donacien",
+    "age": "12",
+    "department": "Web development",
+    "Fees": "100000"
+  }
+}
