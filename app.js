@@ -1,14 +1,6 @@
 const http = require("http");
 const fs = require("fs");
 const formidable = require("formidable");
-const events = require('events');
-
-const eventEmitter = new events.EventEmitter();
-
-
-eventEmitter.on('register_complete',function(){
-  console.log('New student registered')
-})
 
 
 var allStudents = [];
@@ -25,7 +17,6 @@ const server = http.createServer((req, res) => {
           if (err) {
             console.log(err);
           } else {
-            eventEmitter.emit('register_complete')
             // fs.readFile(`./db/${fields.name}.txt`,'utf8',(err,data)=>{
             //     if(err){
             //         console.log(err)
