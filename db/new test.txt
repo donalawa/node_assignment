@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "name": "new test",
+    "age": "434",
+    "department": "adffafa",
+    "Fees": "2323223"
+  },
+  "image": {
+    "multipleFiles": {
+      "size": 8699632,
+      "path": "C:\\Users\\DONALS~1\\AppData\\Local\\Temp\\upload_e3cd7d084b785d70a52e6592bb76e6f1",
+      "name": "IMG_0678.JPG",
+      "type": "image/jpeg",
+      "mtime": "2020-04-03T08:07:28.107Z"
+    }
+  }
+}
