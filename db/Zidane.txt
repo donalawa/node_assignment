@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "name": "Zidane",
+    "age": "12",
+    "department": "Web development",
+    "Fees": "121211221"
+  },
+  "image": {
+    "multipleFiles": {
+      "size": 7015979,
+      "path": "C:\\Users\\DONALS~1\\AppData\\Local\\Temp\\upload_5fd8adef52813270b09e70b0fc1163bb",
+      "name": "IMG_0638.JPG",
+      "type": "image/jpeg",
+      "mtime": "2020-04-03T13:03:19.204Z"
+    }
+  }
+}

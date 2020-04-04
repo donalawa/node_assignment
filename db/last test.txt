@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "name": "last test",
+    "age": "23",
+    "department": "Web development",
+    "Fees": "2323232"
+  },
+  "image": {
+    "multipleFiles": {
+      "size": 7438372,
+      "path": "C:\\Users\\DONALS~1\\AppData\\Local\\Temp\\upload_1efd99bd3a8c6b0cd28c6edc2240d41d",
+      "name": "IMG_0660.JPG",
+      "type": "image/jpeg",
+      "mtime": "2020-04-04T09:32:28.815Z"
+    }
+  }
+}

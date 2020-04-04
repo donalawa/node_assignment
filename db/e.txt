@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "name": "e",
+    "age": "23",
+    "department": "asa",
+    "Fees": "12121124"
+  },
+  "image": {
+    "multipleFiles": {
+      "size": 7061812,
+      "path": "C:\\Users\\DONALS~1\\AppData\\Local\\Temp\\upload_653856b68fba9f5573fe75f686889544",
+      "name": "IMG_0621.JPG",
+      "type": "image/jpeg",
+      "mtime": "2020-04-03T16:48:10.185Z"
+    }
+  }
+}

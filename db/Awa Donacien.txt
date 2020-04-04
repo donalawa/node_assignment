@@ -1,17 +1,17 @@
 {
   "fields": {
     "name": "Awa Donacien",
-    "age": "12",
+    "age": "23",
     "department": "Web development",
-    "Fees": "23323232"
+    "Fees": "677556435"
   },
   "image": {
     "multipleFiles": {
-      "size": 7513847,
-      "path": "C:\\Users\\DONALS~1\\AppData\\Local\\Temp\\upload_41dec2cffc49169b683aed7b63c1d984",
-      "name": "IMG_1033.JPG",
+      "size": 7432137,
+      "path": "C:\\Users\\DONALS~1\\AppData\\Local\\Temp\\upload_399c4da892533d267b6f6c47007f2375",
+      "name": "IMG_0628.JPG",
       "type": "image/jpeg",
-      "mtime": "2020-04-03T08:14:13.308Z"
+      "mtime": "2020-04-03T16:44:35.871Z"
     }
   }
 }
